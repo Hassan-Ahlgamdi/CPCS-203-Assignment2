@@ -1,0 +1,12 @@
+
+============================
+--Due to the late announcement I created two main methods in my project.
+
+--The real main method that will run the program is within the "Main" class. 
+please to run the program without errors go to the "Main" class and press left click to run 
+the file from that class. 
+
+--Then it will ask you to enter the path for the file to read from if you want to check 
+the same file "input.txt" just press Enter and ignore that line. 
+
+--If the program prints "go check the file" means everything is done and you can check the file "output.txt".
